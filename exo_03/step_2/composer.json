@@ -1,0 +1,19 @@
+{
+    "name": "frank_schroeder/Exam_2018_03_14",
+    "description": "Frank Schroeder - Intermediate Exam",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "D4rkPh0en1x",
+            "email": "frank@datateam.lu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+     "psr-4": {
+     "": "src/"
+     }
+     }
+}
